@@ -1,0 +1,28 @@
+body,html{
+  margin:0;
+  padding:0;
+}
+
+#main {
+  margin:50px auto;
+  width:240px;
+}
+
+#calc{
+  margin-left:52px;
+  /*width:50px;*/
+}
+
+input{
+  margin:5px 0;
+}
+
+span{
+  color:red;
+  margin-left:5px;
+}
+
+#width-validate,#height-validate{
+  color:red;
+  margin-left:52px;
+}
